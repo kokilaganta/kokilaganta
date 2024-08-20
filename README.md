@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kokilaganta
+- 👋 Hi, I’m @kokila
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on DevOps projects, particularly in automation, CI/CD pipelines, and cloud infrastructure
